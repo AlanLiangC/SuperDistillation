@@ -1,0 +1,3 @@
+[submodule "super_distillation/sub_modules/Depth-Anything-3"]
+	path = super_distillation/sub_modules/Depth-Anything-3
+	url = https://github.com/ByteDance-Seed/Depth-Anything-3.git

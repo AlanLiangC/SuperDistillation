@@ -1,6 +1,5 @@
 # SuperDistillation
 SuperDistillation
-
 ## Install
 - Depth Anything V3
 ```

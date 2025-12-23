@@ -34,3 +34,5 @@ pip install https://github.com/open-mmlab/mmsegmentation/archive/refs/tags/v0.30
 cd super_distillation/sub_modules/mmdetection3d-1.0.0rc6
 pip install -v . --no-build-isolation
 ```
+
+- GaussianFormer
